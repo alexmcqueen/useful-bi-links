@@ -43,6 +43,9 @@ Online data model which you can write DAX against. Useful for testing.
 ### [SWD community](https://community.storytellingwithdata.com/login?returnTo=%2Fmembers%2Fme%2Fgallery)
 Storytelling with data community members area and forum. 
 
+### [Figma](https://www.figma.com/)
+Can be used to design and prototype backgrounds for Power BI. 
+
 ### [Flat Icon](https://www.flaticon.com/)
 Access to free icons and stickers for your projects
 
@@ -73,12 +76,32 @@ Help to pick colour themes and palettes for your dashboards and reports.
 ### [Color Combos](https://www.colorcombos.com/)
 Help to pick colour themes and palettes for your dashboards and reports.
 
+### [Base64Image](https://www.base64-image.de/)
+Convert images to base64. This can be useful for Power BI if we want to embed imags into our theme files. 
 
+### [Unicode Character Table](https://unicode-table.com/en/)
+Get the unicode for images. These can be used within Power BI reports. 
+
+### [Emptycharacter.com](https://emptycharacter.com/)
+Use to copy the empty character. This can be used in Power BI for example to help with formatting. 
 
 ## SQL Server
 
 ### [Statistics Parser](https://statisticsparser.com/)
 Web page to help with the output from Statistics IO and Statistic Time. Will format the information from the messages pane into a readable format. 
+
+## Data Modelling
+
+### [Model Storming](https://modelstorming.com/templates)
+Templates that can be used with model storming. 
+
+## Git
+
+### [Pro Git Book](https://git-scm.com/book/en/v2)
+Link to the Pro Git Book which details everything about git. 
+
+### [README.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Guide to writing readme.md files. 
 
 ## Python
 
@@ -87,3 +110,6 @@ Python style guide used by Google.
 
 ### [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
 Conventions for Python code. 
+
+### [Python Community for Healthcare](https://nhs-pycom.net/)
+Landing page for the NHS Python Community. 

@@ -134,6 +134,9 @@ Documentation portal for vega. Useful if using it within Deneb to make custom vi
 #### [Vega-Lite documentation](https://vega.github.io/vega-lite/)
 Documentation portal for vega-list. Useful if using it wihin Deneb to make custom visualisations. 
 
+#### [Vega-Lite tutorials](https://vega.github.io/vega-lite/examples/)
+Examples of visuals created using Vega-lite. Useful for getting inspiration on what visuals can be possible through Deneb.
+
 ## Python
 
 #### [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)

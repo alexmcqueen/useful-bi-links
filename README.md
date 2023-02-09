@@ -123,6 +123,17 @@ Link to the documentation for the Power BI Rest APIS. These provide service endp
 #### [Power BI Support](https://powerbi.microsoft.com/en-gb/support/)
 Will show if there are any service outages or degradation notifications.
 
+### Deneb
+
+#### [Deneb](https://deneb-viz.github.io/visual-editor)
+Webpage for the Deneb custom visual
+
+#### [Vega documentation](https://vega.github.io/vega/docs/specification/)
+Documentation portal for vega. Useful if using it within Deneb to make custom visualisations. 
+
+#### [Vega-Lite documentation](https://vega.github.io/vega-lite/)
+Documentation portal for vega-list. Useful if using it wihin Deneb to make custom visualisations. 
+
 ## Python
 
 #### [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)

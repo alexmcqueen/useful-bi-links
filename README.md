@@ -137,6 +137,12 @@ Documentation portal for vega-list. Useful if using it wihin Deneb to make custo
 #### [Vega-Lite tutorials](https://vega.github.io/vega-lite/examples/)
 Examples of visuals created using Vega-lite. Useful for getting inspiration on what visuals can be possible through Deneb.
 
+#### [Deneb Examples](https://github.com/PBI-David/Deneb-Showcase)
+Examples of visuals created with Deneb. 
+
+### [Kerry Kolosko](https://kerrykolosko.com/portfolio/)
+Examples of Deneb, plus also SVG in Power BI. 
+
 ## Python
 
 #### [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)

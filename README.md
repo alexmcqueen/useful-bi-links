@@ -148,6 +148,9 @@ Examples of Deneb, plus also SVG in Power BI.
 #### [W3Schools](https://www.w3schools.com/graphics/svg_intro.asp)
 SVG Tutorials
 
+#### [Hat Full Of Data SVG Blogs](https://hatfullofdata.blog/category/svg/)
+Useful information about doing SVG in Power BI
+
 ## Python
 
 #### [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)

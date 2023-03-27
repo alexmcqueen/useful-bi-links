@@ -140,7 +140,7 @@ Examples of visuals created using Vega-lite. Useful for getting inspiration on w
 #### [Deneb Examples](https://github.com/PBI-David/Deneb-Showcase)
 Examples of visuals created with Deneb. 
 
-### [Kerry Kolosko](https://kerrykolosko.com/portfolio/)
+#### [Kerry Kolosko](https://kerrykolosko.com/portfolio/)
 Examples of Deneb, plus also SVG in Power BI. 
 
 ## Python

@@ -143,6 +143,11 @@ Examples of visuals created with Deneb.
 #### [Kerry Kolosko](https://kerrykolosko.com/portfolio/)
 Examples of Deneb, plus also SVG in Power BI. 
 
+### SVG
+
+#### [W3Schools](https://www.w3schools.com/graphics/svg_intro.asp)
+SVG Tutorials
+
 ## Python
 
 #### [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)

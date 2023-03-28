@@ -19,7 +19,10 @@ Use to format DAX statements. Can also be done in DAX Studio.
 Descriptions of DAX functions with examples. 
 
 #### [Dax.do](https://dax.do/)
-Online data model which you can write DAX against. Useful for testing. 
+Online data model which you can write DAX against. Useful for testing.
+
+#### [Dax Patterns](https://www.daxpatterns.com/)
+Useful patterns for DAX common problems.
 
 #### [SQLBI](https://www.sqlbi.com/articles/)
 Article section of SQL BI website. Providing the best articles on DAX. 
@@ -85,6 +88,9 @@ Use to copy the empty character. This can be used in Power BI for example to hel
 
 #### [Unicode Character Table](https://unicode-table.com/en/)
 Get the unicode for images. These can be used within Power BI reports. 
+
+#### [Photo Pea](https://www.photopea.com/)
+Free web site to make changes to images.
 
 ## Git
 

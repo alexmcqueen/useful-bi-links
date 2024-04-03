@@ -46,6 +46,9 @@ Can be used to design and prototype backgrounds for Power BI.
 
 ### Icons
 
+### [Icon8](https://icons8.com/icons/set/sales)
+Collection of icons. The icons colour and background colour can be change which makes it great for easy Power BI icon design. 
+
 #### [Adobe Stock](https://stock.adobe.com/uk/search?k=dashboard&search_type=usertyped)
 Use to get ideas about dashboard and report designs. 
 
